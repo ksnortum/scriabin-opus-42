@@ -72,6 +72,7 @@ rightHandUpper = \relative {
     ef'[ g, d' af ef]  c'[ d,  af' ef c]) }  c'[-\slurShapeA ( e, |
   \tuplet 3/2 { bf'16 f d]) } \tuplet 5/4 4 { g'[( cs, f d bf])
     af[( d, g ef cf])  f'[( cf  ef cf g]) } d'[-\slurShapeB ( fs, |
+  % First 32nd note, ef, SrcA (compare measure 38)
   \tuplet 3/2 { d'16 g, ef] } \tuplet 5/4 4 { d'[ f,! d' gf, ef]
     bf'[ e, bf' f d]  bf[ d f bf d]) } ef,32[( af c ef |
   \tuplet 3/2 { bf'16 ef, c] } \tuplet 5/4 4 { af'[ b, g' c, af]  
